@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Pradip-A-Dhadbale
 - 👀 I’m interested in someone's to finding my program errors
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning dsa,java,html,css.
+- and learned C,MySql 
 - 💞️ I’m looking to collaborate on learning new things 
 - 📫 How to reach me by pradip88dhadbale@gmail.com
    
