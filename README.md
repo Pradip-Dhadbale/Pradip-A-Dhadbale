@@ -1,11 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Pradip-A-Dhadbale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-- 👀 I’m interested in someone's to finding my program errors 
+ - 👀 I’m interested in someone's to finding my
+     program errors 
  - 🌱 I’m currently learning dsa,java,html,css. 
  - and learned C,MySql  
  - 💞️ I’m looking to collaborate on learning new things  
- - 📫 How to reach me by pradip88dhadbale@gmail.com
+ - 📫 How to reach me by
+      pradip88dhadbale@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradip-a-dhadbale&label=Profile%20views&color=0e75b6&style=flat" alt="pradip-a-dhadbale" /> </p>
 
